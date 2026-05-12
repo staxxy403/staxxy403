@@ -1,5 +1,5 @@
-🐸 **Всем привет, я очень крутой девопс и сисадмин. ДАйте мне работу.**<br>
-For HR Only: Hello, i'm High-Qualified DevSecOps & SRE Engineer with focus on a strict sandboxing and IaC.
+### 🐸 Всем привет, я очень крутой девопс и сисадмин. ДАйте мне работу.<br>
+For HRs Only: Hello, i'm High-Qualified DevSecOps & SRE Engineer with focus on a strict sandboxing and IaC.
 
 Люблю: дебиан, альпайн, зеленый чай, смотреть тикток<br>
 НЕНАВИЖУ: убунту
