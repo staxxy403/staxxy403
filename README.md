@@ -1,16 +1,26 @@
-## Hi there 👋
+🐸 **Всем привет, я очень крутой девопс и сисадмин. ДАйте мне работу.**
+For HR Only: Hello, i'm High-Qualified DevSecOps & SRE Engineer with focus on a strict sandboxing and IaC.
 
-<!--
-**staxxy403/staxxy403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Люблю: дебиан, альпайн, зеленый чай, смотреть тикток 
+НЕНАВИЖУ: убунту
+### 💻 Навыки и инструменты
 
-Here are some ideas to get you started:
+**Frontend & Design**  
+![Nuxt](https://img.shields.io/badge/-Nuxt_4-00C58E?style=flat-square&logo=nuxt&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)  ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)<br>
+<sub>Не фанат писать фронт, но если проекту это надо - ТАК И БЫТЬ</sub>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Backend**  
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)<br>
+<sub>СТЕК КРУТОГО ЧУВАКА вопросы</sub>
+
+
+**Infrastructure & Sandboxing**  
+![Incus](https://img.shields.io/badge/-Incus-333333?style=flat-square&logo=linuxcontainers&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)<br>
+<sub>Держу хост в чистоте, все круто классно раскидано по LXC и VM через Incus, сетап сервера через Ansible. Когда нибудь выложу плейбук. Кубер на подходе</sub>
+
+**Security & Monitoring**  
+![Falco](https://img.shields.io/badge/-Falco-00A89D?style=flat-square&logo=falco&logoColor=white) ![gVisor](https://img.shields.io/badge/-gVisor-262362?style=flat-square&logo=googlecontaineroptimizedos&logoColor=white) ![Tailscale](https://img.shields.io/badge/-Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white)
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)<br>
+<sub>Метрики, дашборды, алерты и здоровый уровень паранойи. ЛЮБЛЮ ГРАФИКИ</sub>
