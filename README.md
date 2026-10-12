@@ -7,8 +7,8 @@ For HRs Only: Hello, i'm High-Qualified DevSecOps & SRE Engineer with focus on a
 
 **Infrastructure & Sandboxing**  
 ![Incus](https://img.shields.io/badge/-Incus-333333?style=flat-square&logo=linuxcontainers&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)<br>
-![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)<br>
-Держу хост в чистоте, все круто классно раскидано по LXC и VM через Incus, сетап сервера через Ansible. Кубернетес на подходе!!
+![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) ![Nomad](https://img.shields.io/badge/-Nomad-00CA8E?style=flat-square&logo=nomad&logoColor=white)<br>
+Держу хост в чистоте, все круто классно раскидано по LXC и VM через Incus, сетап сервера через Ansible, Nomad для оркестрации
 
 ---
 **Security & Monitoring**  
